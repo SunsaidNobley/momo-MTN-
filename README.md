@@ -1,2 +1,2 @@
-# momo-mtn-admin
+# momoz-admin
 Application support 
