@@ -1,2 +1,2 @@
-# momo_mtn
+# momo-mtn-admin
 Application support 
